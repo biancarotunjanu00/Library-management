@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\E-Library.csproj": {}
+    "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\E-Library.csproj": {}
   },
   "projects": {
-    "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\E-Library.csproj": {
+    "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\E-Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\E-Library.csproj",
+        "projectUniqueName": "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\E-Library.csproj",
         "projectName": "E-Library",
-        "projectPath": "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\E-Library.csproj",
+        "projectPath": "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\E-Library.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\obj\\",
+        "outputPath": "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

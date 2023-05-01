@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2SnhhZnWqPHp3vmy0xIhDdoN5FtEqjLGXD/++HYvLjgMjETvfFFx7iOO40J6/Vi4u4o89cc2p8zYkyksaJQpw==",
+  "dgSpecHash": "YenF5St7ZaHUqTZU88aEE0XTs9y9jNx+ojNCzLXWmaXC4h8us74BHDiYRoTJLxg0Ac+GYUfg3W0kYKzxAyEn6w==",
   "success": true,
-  "projectFilePath": "D:\\An_3 SEM 2\\WAD_Assignment2\\WAD_Assignment2\\E-Library\\E-Library.csproj",
+  "projectFilePath": "D:\\An_3 SEM 2\\SE_Lab\\Library-management\\Library-management\\Library-management\\E-Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
