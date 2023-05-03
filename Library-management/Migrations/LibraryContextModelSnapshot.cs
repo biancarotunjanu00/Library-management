@@ -22,30 +22,7 @@ namespace E_Library.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("E_Library.Models.Article", b =>
-                {
-                    b.Property<int>("ArticleId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ArticleId"));
-
-                    b.Property<string>("Article_Author")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Article_Title")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Content")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime?>("Date")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("ArticleId");
-
-                    b.ToTable("Articles");
-                });
+           
 
             modelBuilder.Entity("E_Library.Models.Book", b =>
                 {
